@@ -54,6 +54,8 @@ The very last step is Permuting the last layer. While all of the edges and corne
 
 ![PLL](https://user-images.githubusercontent.com/65193347/107476057-20ab2500-6b43-11eb-95a5-b1c25092c179.png)
 
+UH OH! This is a work in progress... Come back soon!
+
 
 
 
