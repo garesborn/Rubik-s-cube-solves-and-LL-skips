@@ -38,7 +38,7 @@ First step is to choose 1 face and create the cross. I always start with the whi
 
 # F2L
 
-Next we must solve the first 2 layers of a cube. In the beginners method, this is done in 2 parts; first solving the first layer corners, then the second layer edges. In the advanced CFOP method, these are done at the same time. A finished F2L can be seen below.
+Next we must solve the first 2 layers of a cube. In the beginners method, this is done in 2 parts; first solving the first layer corners, then the second layer edges. In the advanced CFOP method, these are done at the same time. A finished F2L can be seen below. NOTE: this cube is the same cube from the cross phase, but flipped over.
 
 ![F2L](https://user-images.githubusercontent.com/65193347/107474386-4125b000-6b40-11eb-89cf-c8b12b30ac78.png)
 
