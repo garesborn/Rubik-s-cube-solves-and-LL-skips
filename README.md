@@ -52,7 +52,8 @@ The last two steps are the focus of this study. Orienting the last layer, in our
 
 The very last step is Permuting the last layer. While all of the edges and corners in the last layer are oriented so that the their yellow faces are aligned correctly, their other faces may not be permuted so that they align with their corresponding centers. Here is an example of an unpermuted last layer versus a permuted last layer (and therefore fully solved cube).
 
-![PLL](https://user-images.githubusercontent.com/65193347/107475339-f0af5200-6b41-11eb-8dae-393eeb994712.png)
+![PLL](https://user-images.githubusercontent.com/65193347/107476057-20ab2500-6b43-11eb-95a5-b1c25092c179.png)
+
 
 
 
