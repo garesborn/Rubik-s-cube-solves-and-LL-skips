@@ -8,12 +8,14 @@ To understand what this project will explore, first you need a basic understandi
 
 A rubik's cube is made of 26 cubies (smaller cubes, sub cubes, etc.). Of these 26 cubies, there are 8 corners (each with 3 faces), 12 edges (each with 2 faces), and most importantly, 6 centers. These centers form axes for which all of the corners and edges can rotate around as seen below. 
 
-This brings us to rule #1: The centers will always be in the exact same orientation (no matter how you rotate the sides) and therefore denote the face for that color. 
+This brings us to Rule #1: The centers will always be in the exact same orientation (no matter how you rotate the sides) and therefore denote the face for that color. 
 
 For example, the red, white, and blue centers/faces will always be oritented in a clockwise fashion as seen below. (NOTE: this also means that certain faces like the white and yellow faces, will always be on opposite sides of the cube)
 ![axis](https://user-images.githubusercontent.com/65193347/107472318-bb543580-6b3c-11eb-9d47-fb84f73b10b0.png)
 
-Now that we know that the faces of a cube will always have the same orientation, we can move on to the second most important rule of the cube. Every cubie only has 1 location and 1 orientation in it's solved state. For example, the red and white edge must always go in the slot adjacent to both the red and white centers, oriented so the each face is aligned to the proper color.
+This brings us to Rule #2: Every cubie only has 1 location and 1 orientation in it's solved state. 
+
+For example, the red and white edge must always go in the slot adjacent to both the red and white centers, oriented so the each face is aligned to the proper color.
 
 ![red_white_edge](https://user-images.githubusercontent.com/65193347/107471264-e047a900-6b3a-11eb-8ce1-c435b396f846.png)
 
