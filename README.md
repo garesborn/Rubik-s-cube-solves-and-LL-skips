@@ -7,7 +7,7 @@ This project is explores my personal Rubik's cube solve times and how my speed i
 To understand what this project will explore, first you need a basic understanding of how to solve a rubik's cube.
 
 A rubik's cube is made of 26 cubies (smaller cubes, sub cubes, etc.). Of these 26 cubies, there are 8 corners (each with 3 faces), 12 edges (each with 2 faces), and most importantly, 6 centers. These centers form axes for which all of the corners and edges can rotate around as seen below. These centers will always be in the exact same orientation (no matter how you rotate the sides) and therefore denote the face for that color. For example, the red, white, and blue centers/faces will always be oritented in a clockwise fashion as seen below.
-![axis](https://user-images.githubusercontent.com/65193347/107469737-4bdc4700-6b38-11eb-953c-996b526e9529.png)
+![axis](https://user-images.githubusercontent.com/65193347/107472318-bb543580-6b3c-11eb-9d47-fb84f73b10b0.png)
 
 Now that we know that the faces of a cube will always have the same orientation, we can move on to the second most important rule of the cube. Every cubie only has 1 location and 1 orientation. For example, the red and white edge must always go in the slot adjecent to both the red and white centers, oriented so the each face is aligned to the proper color.
 
