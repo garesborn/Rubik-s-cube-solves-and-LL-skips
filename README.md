@@ -13,6 +13,10 @@ Now that we know that the faces of a cube will always have the same orientation,
 
 ![red_white_edge](https://user-images.githubusercontent.com/65193347/107471264-e047a900-6b3a-11eb-8ce1-c435b396f846.png)
 
+Here's a further example of edges and their orientations.
+
+![edge examples](https://user-images.githubusercontent.com/65193347/107482087-3a516a00-6b4d-11eb-8b40-53995552e17f.png)
+
 This rule is where most people get tripped up when trying to solve a cube for the first (and usually last) time. If you have ever heard someone proudly exclaim "I finished one side once," they quite likely had it looking more like cube on the left than the right (seen below).
 
 ![one_side](https://user-images.githubusercontent.com/65193347/107471935-091c6e00-6b3c-11eb-8e24-9bbabfb52e4b.png)
