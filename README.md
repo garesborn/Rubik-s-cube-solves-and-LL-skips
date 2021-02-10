@@ -13,7 +13,7 @@ This brings us to Rule #1: The centers will always be in the exact same orientat
 For example, the red, white, and blue centers/faces will always be oritented in a clockwise fashion as seen below. (NOTE: this also means that certain faces like the white and yellow faces, will always be on opposite sides of the cube)
 ![axis](https://user-images.githubusercontent.com/65193347/107472318-bb543580-6b3c-11eb-9d47-fb84f73b10b0.png)
 
-This brings us to Rule #2: Every cubie only has 1 location and 1 orientation in it's solved state. 
+Now we can move onto Rule #2: Every cubie only has 1 location and 1 orientation in it's solved state. 
 
 For example, the red and white edge must always go in the slot adjacent to both the red and white centers, oriented so the each face is aligned to the proper color.
 
