@@ -30,13 +30,13 @@ CFOP is an acronym for the 4 steps used in solving a cube. In order these steps 
 
 Now lets look at these a little deeper
 
-#Cross
+##Cross
 
 First step is to choose 1 face and create the cross. I always start with the white cross. The fastest cubers are able to start with any color allowing them to choose which will create the cross with the fewest turns. A solved cross can be seen below.
 
 ![cross](https://user-images.githubusercontent.com/65193347/107473453-bee8bc00-6b3e-11eb-82c5-1f2326d237d5.png)
 
-#F2L
+##F2L
 
 Next we must solve the first 2 layers of a cube. In the beginners method, this is done in 2 parts; first solving the first layer corners, then the second layer edges. In the advanced CFOP method, these are done at the same time. A finished F2L can be seen below.
 
