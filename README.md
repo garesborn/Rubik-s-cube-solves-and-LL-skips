@@ -40,7 +40,7 @@ Each of these steps can be broken down further into algorithms. Algorithms are s
 
 First step is to choose 1 face and create the cross. I always start with the white cross. The fastest cubers are able to start with any color allowing them to choose which will create the cross with the fewest turns. A solved cross can be seen below. A cross on any cube can be solved in, at most, 8 rotations.
 
-![cross](https://user-images.githubusercontent.com/65193347/107473453-bee8bc00-6b3e-11eb-82c5-1f2326d237d5.png)
+![cross](https://user-images.githubusercontent.com/65193347/107485872-5c99b680-6b52-11eb-8c22-aa833a4327b3.png)
 
 # F2L
 
