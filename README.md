@@ -17,10 +17,6 @@ Now we can move onto Rule #2: Every cubie only has 1 location and 1 orientation 
 
 For example, the red and white edge must always go in the slot adjacent to both the red and white centers, oriented so the each face is aligned to the proper color.
 
-![red_white_edge](https://user-images.githubusercontent.com/65193347/107471264-e047a900-6b3a-11eb-8ce1-c435b396f846.png)
-
-Here's a further example of edges and their orientations.
-
 ![edge examples](https://user-images.githubusercontent.com/65193347/107482087-3a516a00-6b4d-11eb-8b40-53995552e17f.png)
 
 This rule is where most people get tripped up when trying to solve a cube for the first (and usually last) time. If you have ever heard someone proudly exclaim "I finished one side once," they quite likely had it looking more like cube on the left than the right (seen below).
