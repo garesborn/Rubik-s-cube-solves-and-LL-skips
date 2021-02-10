@@ -34,29 +34,29 @@ CFOP is an acronym for the 4 steps used in solving a cube. In order these steps 
 
 -Permute the Last Layer
 
-Now lets look at these a little deeper
+Each of these steps can be broken down further into algorithms which are sequences of rotations that place certain pieces into their proper locations and orientaions. Now lets look at these a little deeper.
 
 # Cross
 
-First step is to choose 1 face and create the cross. I always start with the white cross. The fastest cubers are able to start with any color allowing them to choose which will create the cross with the fewest turns. A solved cross can be seen below.
+First step is to choose 1 face and create the cross. I always start with the white cross. The fastest cubers are able to start with any color allowing them to choose which will create the cross with the fewest turns. A solved cross can be seen below. A cross on any cube can be solved in, at most, 8 rotations.
 
 ![cross](https://user-images.githubusercontent.com/65193347/107473453-bee8bc00-6b3e-11eb-82c5-1f2326d237d5.png)
 
 # F2L
 
-Next we must solve the first 2 layers of a cube. In the beginners method, this is done in 2 parts; first solving the first layer corners, then the second layer edges. In the advanced CFOP method, these are done at the same time. A finished F2L can be seen below. NOTE: this cube is the same cube from the cross phase, but flipped over.
+Next we must solve the first 2 layers of a cube. In the beginners method, this is done in 2 parts; first solving the first layer corners, then the second layer edges. In the advanced CFOP method, these are done at the same time. The fastest cuber can solve F2L with 4 algorithms, one for each edge/corner pair. A finished F2L can be seen below. NOTE: this cube is the same cube from the cross phase, but flipped over.
 
 ![F2L](https://user-images.githubusercontent.com/65193347/107474386-4125b000-6b40-11eb-89cf-c8b12b30ac78.png)
 
 # OLL
 
-The last two steps are the focus of this study. Orienting the last layer, in our case the yellow layer, means to orient the remaining 4 corners and 4 edges so that their yellow face is aligned with the yellow center. a properly oriented last layer can be seen below.
+The last two steps are the focus of this study. Orienting the last layer, in our case the yellow layer, means to orient the remaining 4 corners and 4 edges so that their yellow face is aligned with the yellow center. The fastest cubers can orient the last layer with only one algorithm. Personally, it takes me between 1-3 algorithms to orient the last layer. A properly oriented last layer can be seen below.
 
 ![OLL](https://user-images.githubusercontent.com/65193347/107474879-2b64ba80-6b41-11eb-8d79-105b327a7486.png)
 
 # PLL
 
-The very last step is Permuting the last layer. While all of the edges and corners in the last layer are oriented so that the their yellow faces are aligned correctly, their other faces may not be permuted so that they align with their corresponding centers. Here is an example of an unpermuted last layer versus a permuted last layer (and therefore fully solved cube).
+The very last step is Permuting the last layer. While all of the edges and corners in the last layer are oriented so that the their yellow faces are aligned correctly, their other faces may not be permuted (located) so that they align with their corresponding centers. The fastest cubers can permute the last layer with only one algorithm. I can permute the last layer of a cube with 1-2 algorithms. Here is an example of an unpermuted last layer versus a permuted last layer (and therefore fully solved cube).
 
 ![PLL](https://user-images.githubusercontent.com/65193347/107476057-20ab2500-6b43-11eb-95a5-b1c25092c179.png)
 
