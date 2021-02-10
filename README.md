@@ -9,7 +9,7 @@ To understand what this project will explore, first you need a basic understandi
 A rubik's cube is made of 26 cubies (smaller cubes, sub cubes, etc.). Of these 26 cubies, there are 8 corners (each with 3 faces), 12 edges (each with 2 faces), and most importantly, 6 centers. These centers form axes for which all of the corners and edges can rotate around as seen below. These centers will always be in the exact same orientation (no matter how you rotate the sides) and therefore denote the face for that color. For example, the red, white, and blue centers/faces will always be oritented in a clockwise fashion as seen below. (NOTE: this also means that certain faces like the white and yellow faces, will always be on opposite sides of the cube)
 ![axis](https://user-images.githubusercontent.com/65193347/107472318-bb543580-6b3c-11eb-9d47-fb84f73b10b0.png)
 
-Now that we know that the faces of a cube will always have the same orientation, we can move on to the second most important rule of the cube. Every cubie only has 1 location and 1 orientation in it's solved state. For example, the red and white edge must always go in the slot adjecent to both the red and white centers, oriented so the each face is aligned to the proper color.
+Now that we know that the faces of a cube will always have the same orientation, we can move on to the second most important rule of the cube. Every cubie only has 1 location and 1 orientation in it's solved state. For example, the red and white edge must always go in the slot adjacent to both the red and white centers, oriented so the each face is aligned to the proper color.
 
 ![red_white_edge](https://user-images.githubusercontent.com/65193347/107471264-e047a900-6b3a-11eb-8ce1-c435b396f846.png)
 
@@ -41,6 +41,18 @@ First step is to choose 1 face and create the cross. I always start with the whi
 Next we must solve the first 2 layers of a cube. In the beginners method, this is done in 2 parts; first solving the first layer corners, then the second layer edges. In the advanced CFOP method, these are done at the same time. A finished F2L can be seen below.
 
 ![F2L](https://user-images.githubusercontent.com/65193347/107474386-4125b000-6b40-11eb-89cf-c8b12b30ac78.png)
+
+# OLL
+
+The last two steps are the focus of this study. Orienting the last layer, in our case the yellow layer, means to orient the remaining 4 corners and 4 edges so that their yellow face is aligned with the yellow center. a properly oriented last layer can be seen below.
+
+![OLL](https://user-images.githubusercontent.com/65193347/107474879-2b64ba80-6b41-11eb-8d79-105b327a7486.png)
+
+# PLL
+
+The very last step is Permuting the last layer. While all of the edges and corners in the last layer are oriented so that the their yellow faces are aligned correctly, their other faces may not be permuted so that they align with their corresponding centers. Here is an example of an unpermuted last layer versus a permuted last layer (and therefore fully solved cube).
+
+![PLL](https://user-images.githubusercontent.com/65193347/107475339-f0af5200-6b41-11eb-8dae-393eeb994712.png)
 
 
 
