@@ -10,7 +10,7 @@ A rubik's cube is made of 26 cubies (smaller cubes, sub cubes, etc.). Of these 2
 
 This brings us to Rule #1: The centers will always be in the exact same orientation (no matter how you rotate the sides) and therefore denote the face for that color. 
 
-For example, the red, white, and blue centers/faces will always be oritented in a clockwise fashion as seen below. (NOTE: this also means that certain faces like the white and yellow faces, will always be on opposite sides of the cube)
+For example, the red, white, and blue centers/faces will always be oritented in a clockwise fashion as seen below. NOTE: this also means that certain faces (white/yellow, red/orange, blue/green) will always be on opposite sides of the cube.
 ![axis](https://user-images.githubusercontent.com/65193347/107472318-bb543580-6b3c-11eb-9d47-fb84f73b10b0.png)
 
 Now we can move onto Rule #2: Every cubie only has 1 location and 1 orientation in it's solved state. 
