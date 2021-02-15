@@ -92,9 +92,11 @@ Next, I ran a set of 75 timed cross solves which yeilded an average time of 3.84
 
 While there is a pretty alarming range in these solves, I don't think I will spend much time improving on my crosses. Currently my average is better than my 4 second goal, but I am imperfect 1/5th of the time I solve the cross. I am confident I will continue to be more comfortable solving crosses with time. 
 
-Overall, I think the most important way to improve is to simply continue learning more algorithms. Below is plot of my last 600 timed solves. 
+Overall, I think the most important way to improve is to simply continue learning last layer algorithms. Below is plot of my last 600 timed solves. 
 
 ![600_solves](https://user-images.githubusercontent.com/65193347/107989320-0e484580-6fa0-11eb-8454-9369dfa28b74.png)
 
-Over the course of these 600 solves, I memorized 10-15 new LL algorithms. As the regression line illustrates, my averages have steadily improved by 2.6 seconds between my first and last 200 solves.
+Over the course of these 600 solves, I memorized 10-15 new LL algorithms. As the regression line illustrates, my averages have steadily improved. There is a 2.6 second difference between the averages of my first and last 200 solves. 
+
+There are a number of other ways to improve my times including becoming color independent, improving my inspection phase to begin setting up F2L pairs, and impoving skills like recognition or finger tricks. Assuming I can trim down an additional 3 seconds on my average by learning the rest of the LL algorithms, I can explore these other avenues to get my average under 20 seconds. But for now, I need to accept that knowledge is, in fact, power
 
