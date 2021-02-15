@@ -76,7 +76,7 @@ Looking further into the data, I noticed many of my fastest solves have either O
 
 Aside: The odds of a full last layer skip is about 1/15,000. I have had 2 in my more than 10 years of cubing. One was untimed. The other was a long standing personal best of just under 23 seconds when I was averaging around 35 seconds.
 
-Seeing my reliance on LL skips, I decided to run a set of solves where I tracked how many algorithms I required to solve the last layer. Below is a heatmap depicting 250 solves sorted into bins by number of last layer algorithms and solve time. The red lines denote the average solve time for each bin on the Y axis. The green line denotes the average time of the 250 solves.
+Seeing my reliance on LL skips, I decided to run a set of solves where I tracked how many algorithms I required to solve the last layer. Below is a heatmap depicting 250 solves sorted into bins by number of last layer algorithms and solve time. The red lines denote the average solve time for each of the 4 Y axis bins. The green line denotes the average time of the 250 solves.
 
 ![ll_hist](https://user-images.githubusercontent.com/65193347/107996780-325f5300-6faf-11eb-9edc-55c982aac25b.png)
 
