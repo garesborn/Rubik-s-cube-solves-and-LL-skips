@@ -68,7 +68,7 @@ The beginner's method, a subset of about 10 CFOP method algorithms, allows you t
 
 The full CFOP method has an algorithm for over 120 individual cases that can arise between the 4 steps of a solve (as described above). This will allow the best cubers to solve a cube in as little as 50 moves, still 30 moves more than God's Number. Currently, I have memorized about 70 of these algorithms, including all 41 F2L algorithms, with a current average time just over 25 seconds.
 
-Below is a histogram of my last 600 solves.
+Below is a histogram of my last 600 timed solves.
 
 ![Solve_hist](https://user-images.githubusercontent.com/65193347/107996864-66d30f00-6faf-11eb-98b2-c44093cd5d11.png)
 
