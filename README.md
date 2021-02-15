@@ -1,6 +1,6 @@
 # Rubiks-cube-solves-and-LL-skips
 
-This project is explores my personal Rubik's cube solve times and how improve my speed. While I will go into a little detail on how these cubes work, if you're looking to learn how to actually solve one start to finish I recommend [this tutorial](https://www.youtube.com/watch?v=R-R0KrXvWbc&t=1109s). It explains a dumbed down version of the method most "speedcubers" use (don't worry people will still think you're smart) appropriately called "The Beginner's Method." This is the method I started with, albeit from a pdf I found browsing the internet a little more than a decade ago.
+This project is explores my personal Rubik's cube solve times and how much I can improve my speed. While I will go into a little detail on how these cubes work, if you're looking to learn how to actually solve one start to finish I recommend [this tutorial](https://www.youtube.com/watch?v=R-R0KrXvWbc&t=1109s). It explains a dumbed down version of the method most "speedcubers" use (don't worry people will still think you're smart) appropriately called "The Beginner's Method." This is the method I started with, albeit from a pdf I found browsing the internet a little more than a decade ago.
 
 ## Background
 
@@ -50,18 +50,45 @@ Next we must solve the first 2 layers of a cube. In the beginners method, this i
 
 # OLL
 
-The last two steps are the focus of this study. Orienting the last layer, in our case the yellow layer, means to orient the remaining 4 corners and 4 edges so that their yellow face is aligned with the yellow center. The fastest cubers can orient the last layer with only one algorithm. Personally, it takes me between 1-3 algorithms to orient the last layer. A properly oriented last layer can be seen below.
+The last two steps are the focus of this study. Orienting the last layer, in our case the yellow layer, means to orient the remaining 4 corners and 4 edges so that their yellow face is aligned with the yellow center. The fastest cubers can orient the last layer with only one algorithm. Personally, it takes me between 1-3 algorithms to orient the last layer. Rarely, performing the last algorithm of the F2L stage will orient the last layer without the need for an OLL algorithm, known as an OLL skip. The odds of this happening is 1/216. A properly oriented last layer can be seen below.
 
 ![OLL](https://user-images.githubusercontent.com/65193347/107474879-2b64ba80-6b41-11eb-8d79-105b327a7486.png)
 
 # PLL
 
-The very last step is Permuting the last layer. While all of the edges and corners in the last layer are oriented so that the their yellow faces are aligned correctly, their other faces may not be permuted (located) so that they align with their corresponding centers. The fastest cubers can permute the last layer with only one algorithm. I can permute the last layer of a cube with 1-2 algorithms. Here is an example of an unpermuted last layer versus a permuted last layer (and therefore fully solved cube).
+The very last step is Permuting the last layer. While all of the edges and corners in the last layer are oriented so that the their yellow faces are aligned correctly, their other faces may not be permuted (located) so that they align with their corresponding centers. The fastest cubers can permute the last layer with only one algorithm. I can permute the last layer of a cube with 1-2 algorithms. Once again, there is a small chance (1/76) that orienting the last layer will also permute it, known as a PLL skip. Here is an example of an unpermuted last layer versus a permuted last layer (and therefore fully solved cube).
 
 ![PLL](https://user-images.githubusercontent.com/65193347/107476057-20ab2500-6b43-11eb-95a5-b1c25092c179.png)
 
-UH OH! This is a work in progress... Come back soon!
+# How Can I Improve?
 
+Simply put, the goal of any speedcubing method is to limit the amount of turns to solve a cube. A study by computer scientists discovered that any cube, no matter the scamble, can be solved in at most 20 rotations. This is known as God's Number. However, for the human mind to solve a cube in 20 moves or less takes a lot of studying and pre-planning of a scramble making this an unrealistic way to speed solve. The most reliable way to speed solve is to learn algorithms. A lot of algorithms. 
+
+The beginner's method, a subset of about 10 CFOP method algorithms, allows you to solve the cube in about 120 moves. When I first started using this method, it took me over a minute to solve a cube. 
+
+The full CFOP method, has an algorithm for over 120 individual cases that can arise between the 4 steps of a solve (as described above). This will allow the best cubers to solve a cube in as little as 50 moves, still 30 moves more than God's Number. Currently, I have memorized about 70 of these algorithms, including all 41 F2L algorithms, with a current average time just over 25 seconds.
+
+Below is a plot of my last 600 solves.
+
+![600_solves](https://user-images.githubusercontent.com/65193347/107989320-0e484580-6fa0-11eb-8454-9369dfa28b74.png)
+
+As, you can see many of my fastest solves have OLL or PLL skips, including 2 of my 3 fastest solves and 4 of my top 10. 
+
+Aside: The odds of a full last layer skip is about 1/15,000. I have had 2 in my more than 10 years of cubing. One was untimed. The other was a long standing personal best of just under 23 seconds when I was averaging around 35 seconds.
+
+Seeing my reliance on LL skips, I decided to run a set of solves where I tracked how many algorithms I required to solve the last layer. Below is a heatmap depicting 250 solves by number of last layer algorithms and solve time. The red lines denote the average time for solves that required x last layer algorithms. The green line denotes the average time of the 250 solves.
+
+![ll_hist](https://user-images.githubusercontent.com/65193347/107990977-9da32800-6fa3-11eb-9226-c7e74fa8d966.png)
+
+It's important to know the distribution of these solves. 10% only required 2 last layer algorithms, 53% required 3, 33% required 4, and the remaining 4% needed 5 algorithms to finish the last layer. Any last layer can be finished in at most 2 algorithms. Currently, I have only 18 of the 57 OLL algorithms memorized, and 12 of the 21 PLL algorithms. The more I memorize the more I will cut down the gap of 2.8 seconds between my current average and my 2 look LL average.
+
+Lastly, I wanted to check the other step I am most uncomfortable with, the cross. Solving the cross is dissimilar to other steps in that it requires more intuition and less memorization. There are two general rules that I follow when solving the cross. Firstly, no cross should take more than 8 moves to solve. Secondly, to aim for a sub 20 average, you should be able to solve the cross in 4 seconds. To examine these, I ran two different test sets. 
+
+First, I ran a set of 50 untimed solves, counting the amount of moves to complete the cross each time. This yeilded an average of 7.12 moves. of these 50, 10 required more than 8 moves to complete.
+
+Next, I ran a set of 75 timed cross solves which yeilded an average time of 3.84 seconds. These results can be seen below.
+
+![cross solves](https://user-images.githubusercontent.com/65193347/107986513-38970480-6f9a-11eb-8d12-850bd354d8d2.png)
 
 
 
