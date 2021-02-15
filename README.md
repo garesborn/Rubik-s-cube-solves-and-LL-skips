@@ -104,7 +104,7 @@ Overall, I think the most important way to improve is to simply continue learnin
 
 ![600_solves](https://user-images.githubusercontent.com/65193347/107989320-0e484580-6fa0-11eb-8454-9369dfa28b74.png)
 
-Over the course of these 600 solves, I memorized 10-15 new LL algorithms. As the regression line illustrates, my averages have steadily improved. There is a 2.6 second difference between the averages of my first and last 200 solves. 
+Over the course of these 600 solves, I memorized 10-15 new LL algorithms. As the regression line illustrates, my averages have improved. There is a 2.6 second difference between the averages of my first and last 200 solves. 
 
 There are a number of other ways to improve my times including becoming color independent, improving my inspection phase to begin setting up F2L pairs, and impoving skills like recognition or finger tricks. Assuming I can trim down an additional 3 seconds on my average by learning the rest of the LL algorithms, I can explore these other avenues to get my average under 20 seconds. But for now, I need to accept that knowledge is, in fact, power
 
