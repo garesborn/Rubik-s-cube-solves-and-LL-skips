@@ -1,4 +1,4 @@
-# Rubiks-cube-solves-and-LL-skips
+# Improving My Rubik's Cube Solve Times
 
 This project explores my personal Rubik's cube solve times and how much I can improve my speed. While I will go into a little detail on how these cubes work, if you're looking to learn how to actually solve one start to finish I recommend [this tutorial](https://www.youtube.com/watch?v=R-R0KrXvWbc&t=1109s). It explains a dumbed down version of the method most "speedcubers" use (don't worry people will still think you're smart) appropriately called "The Beginner's Method." This is the method I started with, albeit from a pdf I found browsing the internet a little more than a decade ago.
 
@@ -36,31 +36,33 @@ CFOP is an acronym for the 4 steps used in solving a cube. In order these steps 
 
 Each of these steps can be broken down further into algorithms. Algorithms are sequences of rotations or moves that place certain cubies into their proper locations and orientaions based on their starting point. Now lets look at these a little deeper.
 
+## CFOP
+
 ### Cross
 
 First step is to choose 1 face and create the cross. I always start with the white cross. The fastest cubers are able to start with any color allowing them to choose which will create the cross with the fewest turns. A solved cross can be seen below. A cross on any cube can be solved in, at most, 8 rotations.
 
 ![cross](https://user-images.githubusercontent.com/65193347/108000161-46a74e00-6fb7-11eb-9112-015961d3a76c.png)
 
-# F2L
+### F2L
 
 Next we must solve the first 2 layers of a cube. In the beginners method, this is done in 2 parts; first solving the first layer corners, then the second layer edges. In the advanced CFOP method, these are done at the same time. The fastest cubers can solve F2L with 4 algorithms, one for each edge/corner pair. A finished F2L can be seen below. NOTE: this cube is the same cube from the cross phase, but flipped over.
 
 ![F2L](https://user-images.githubusercontent.com/65193347/108000165-48711180-6fb7-11eb-96e7-7126ed236fce.png)
 
-# OLL
+### OLL
 
 Orienting the last layer, in our case the yellow layer, means to orient the remaining 4 corners and 4 edges so that their yellow face is aligned with the yellow center. The fastest cubers can orient the last layer with only one algorithm. Personally, it takes me between 1-3 algorithms to orient the last layer. Rarely, performing the last algorithm of the F2L stage will orient the last layer without the need for an OLL algorithm, known as an OLL skip. The odds of this happening is 1/216. A properly oriented last layer can be seen below.
 
 ![OLL](https://user-images.githubusercontent.com/65193347/108000169-49a23e80-6fb7-11eb-8ef6-bc22ecae390d.png)
 
-# PLL
+### PLL
 
 The very last step is Permuting the last layer. While all of the edges and corners in the last layer are oriented so that the their yellow faces are aligned correctly, their other faces may not be permuted (located) so that they align with their corresponding centers. The fastest cubers can permute the last layer with only one algorithm. I can permute the last layer of a cube with 1-2 algorithms. Once again, there is a small chance (1/76) that orienting the last layer will also permute it, known as a PLL skip. Here is an example of an unpermuted last layer versus a permuted last layer (and therefore fully solved cube).
 
 ![PLL](https://user-images.githubusercontent.com/65193347/108000171-4ad36b80-6fb7-11eb-8362-6033fe1a2cd5.png)
 
-# How Can I Improve and How Much Will it Help?
+## How Can I Improve and How Much Will it Help?
 
 Simply put, the goal of any speedcubing method is to limit the amount of turns to solve a cube. A [study by computer scientists](https://youtu.be/SUopbexPk3A?t=595) discovered that any cube, no matter the scamble, can be solved in at most 20 rotations. This is known as God's Number. However, for the human mind to solve a cube in 20 moves or less takes an immense amount of studying and pre-planning of a scramble, making this an unrealistic way to speed solve. The most reliable way to speed solve is to learn algorithms. A lot of algorithms. 
 
