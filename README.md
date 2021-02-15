@@ -84,7 +84,7 @@ Any last layer can be finished in at most 2 algorithms. Currently, the 18 OLL al
 
 Lastly, I wanted to check the other step I am most uncomfortable with, the cross. Solving the cross is dissimilar to other steps in that it requires more intuition and less memorization. There are two goals I aim for when solving the cross. Firstly, no cross should take more than 8 moves to solve. Secondly, to aim for a sub 20 average, you should be able to solve the cross in 4 seconds. To examine these, I ran two different test sets. 
 
-First, I ran a set of 50 untimed solves, counting the amount of moves to complete the cross each time. This yeilded an average of 7.12 moves. of these 50, 10 required more than 8 moves to complete.
+First, I ran a set of 50 untimed solves, counting the amount of moves to complete the cross each time. This yeilded an average of 7.12 moves. Of these 50, 10 required more than 8 moves to complete.
 
 Next, I ran a set of 75 timed cross solves which yeilded an average time of 3.84 seconds. These results can be seen below.
 
