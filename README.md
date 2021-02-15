@@ -78,9 +78,9 @@ Aside: The odds of a full last layer skip is about 1/15,000. I have had 2 in my 
 
 Seeing my reliance on LL skips, I decided to run a set of solves where I tracked how many algorithms I required to solve the last layer. Below is a heatmap depicting 250 solves sorted into bins by number of last layer algorithms and solve time. The red lines denote the average solve time for each of the 4 Y axis bins. The green line denotes the average time of the 250 solves.
 
-![ll_hist](https://user-images.githubusercontent.com/65193347/107996780-325f5300-6faf-11eb-9edc-55c982aac25b.png)
+![ll_hist](https://user-images.githubusercontent.com/65193347/108001576-cc78c880-6fba-11eb-9904-44512bf7a431.png)
 
-It's important to know the distribution of these solves. 10% only required 2 last layer algorithms, 53% required 3, 33% required 4, and the remaining 4% needed 5 algorithms to finish the last layer. Any last layer can be finished in at most 2 algorithms. Currently, I have only 18 of the 57 OLL algorithms memorized, and 11 of the 21 PLL algorithms. The more I memorize the more I will cut down the gap of 2.8 seconds between my current average and my 2 look LL average.
+Any last layer can be finished in at most 2 algorithms. Currently, I have only 18 of the 57 OLL algorithms memorized, and 11 of the 21 PLL algorithms. The more I memorize the more I will cut down the gap of 2.8 seconds between my current average and my 2 look LL average.
 
 Lastly, I wanted to check the other step I am most uncomfortable with, the cross. Solving the cross is dissimilar to other steps in that it requires more intuition and less memorization. There are two goals I aim for when solving the cross. Firstly, no cross should take more than 8 moves to solve. Secondly, to aim for a sub 20 average, you should be able to solve the cross in 4 seconds. To examine these, I ran two different test sets. 
 
