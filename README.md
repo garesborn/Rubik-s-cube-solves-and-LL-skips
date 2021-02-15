@@ -34,7 +34,7 @@ CFOP is an acronym for the 4 steps used in solving a cube. In order these steps 
 
 -Permute the Last Layer
 
-Each of these steps can be broken down further into algorithms. Algorithms are sequences of rotations that place certain cubies into their proper locations and orientaions based on their starting point. Now lets look at these a little deeper.
+Each of these steps can be broken down further into algorithms. Algorithms are sequences of rotations or moves that place certain cubies into their proper locations and orientaions based on their starting point. Now lets look at these a little deeper.
 
 # Cross
 
