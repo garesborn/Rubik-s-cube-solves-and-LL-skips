@@ -36,7 +36,7 @@ CFOP is an acronym for the 4 steps used in solving a cube. In order these steps 
 
 Each of these steps can be broken down further into algorithms. Algorithms are sequences of rotations or moves that place certain cubies into their proper locations and orientaions based on their starting point. Now lets look at these a little deeper.
 
-# Cross
+### Cross
 
 First step is to choose 1 face and create the cross. I always start with the white cross. The fastest cubers are able to start with any color allowing them to choose which will create the cross with the fewest turns. A solved cross can be seen below. A cross on any cube can be solved in, at most, 8 rotations.
 
