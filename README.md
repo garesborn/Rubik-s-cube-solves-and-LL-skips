@@ -50,7 +50,7 @@ Next we must solve the first 2 layers of a cube. In the beginners method, this i
 
 # OLL
 
-The last two steps are the focus of this study. Orienting the last layer, in our case the yellow layer, means to orient the remaining 4 corners and 4 edges so that their yellow face is aligned with the yellow center. The fastest cubers can orient the last layer with only one algorithm. Personally, it takes me between 1-3 algorithms to orient the last layer. Rarely, performing the last algorithm of the F2L stage will orient the last layer without the need for an OLL algorithm, known as an OLL skip. The odds of this happening is 1/216. A properly oriented last layer can be seen below.
+Orienting the last layer, in our case the yellow layer, means to orient the remaining 4 corners and 4 edges so that their yellow face is aligned with the yellow center. The fastest cubers can orient the last layer with only one algorithm. Personally, it takes me between 1-3 algorithms to orient the last layer. Rarely, performing the last algorithm of the F2L stage will orient the last layer without the need for an OLL algorithm, known as an OLL skip. The odds of this happening is 1/216. A properly oriented last layer can be seen below.
 
 ![OLL](https://user-images.githubusercontent.com/65193347/107474879-2b64ba80-6b41-11eb-8d79-105b327a7486.png)
 
@@ -62,7 +62,7 @@ The very last step is Permuting the last layer. While all of the edges and corne
 
 # How Can I Improve and How Much Will it Help?
 
-Simply put, the goal of any speedcubing method is to limit the amount of turns to solve a cube. A study by computer scientists discovered that any cube, no matter the scamble, can be solved in at most 20 rotations. This is known as God's Number. However, for the human mind to solve a cube in 20 moves or less takes an immense amount of studying and pre-planning of a scramble, making this an unrealistic way to speed solve. The most reliable way to speed solve is to learn algorithms. A lot of algorithms. 
+Simply put, the goal of any speedcubing method is to limit the amount of turns to solve a cube. A [study by computer scientists](https://youtu.be/SUopbexPk3A?t=595) discovered that any cube, no matter the scamble, can be solved in at most 20 rotations. This is known as God's Number. However, for the human mind to solve a cube in 20 moves or less takes an immense amount of studying and pre-planning of a scramble, making this an unrealistic way to speed solve. The most reliable way to speed solve is to learn algorithms. A lot of algorithms. 
 
 The beginner's method, a subset of about 10 CFOP method algorithms, allows you to solve the cube in about 120 moves. When I first started using this method, it took me over a minute to solve a cube. 
 
