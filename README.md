@@ -64,9 +64,9 @@ The very last step is Permuting the last layer. While all of the edges and corne
 
 Simply put, the goal of any speedcubing method is to limit the amount of turns to solve a cube. A [study by computer scientists](https://youtu.be/SUopbexPk3A?t=595) discovered that any cube, no matter the scamble, can be solved in at most 20 rotations. This is known as God's Number. However, for the human mind to solve a cube in 20 moves or less takes an immense amount of studying and pre-planning of a scramble, making this an unrealistic way to speed solve. The most reliable way to speed solve is to learn algorithms. A lot of algorithms. 
 
-The beginner's method, a subset of about 10 CFOP method algorithms, allows you to solve the cube in about 120 moves. When I first started using this method, it took me over a minute to solve a cube. My first ever recorded time clocking in at 2 minutes and 5 seconds.
+The beginner's method, a subset of about 10 CFOP method algorithms, allows you to solve the cube in about 120 moves. When I first started using this method, it took me over a minute to solve a cube. My first ever recorded time clocked in at 2 minutes and 5 seconds.
 
-The full CFOP method, has an algorithm for over 120 individual cases that can arise between the 4 steps of a solve (as described above). This will allow the best cubers to solve a cube in as little as 50 moves, still 30 moves more than God's Number. Currently, I have memorized about 70 of these algorithms, including all 41 F2L algorithms, with a current average time just over 25 seconds.
+The full CFOP method has an algorithm for over 120 individual cases that can arise between the 4 steps of a solve (as described above). This will allow the best cubers to solve a cube in as little as 50 moves, still 30 moves more than God's Number. Currently, I have memorized about 70 of these algorithms, including all 41 F2L algorithms, with a current average time just over 25 seconds.
 
 Below is a histogram of my last 600 solves.
 
