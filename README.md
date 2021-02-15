@@ -78,11 +78,15 @@ Looking further into the data, I noticed many of my fastest solves have either O
 
 Fun Fact: The odds of a full last layer skip is about 1/15,000. I have had 2 in my more than 10 years of cubing. One was untimed. The other was a long standing personal best of just under 23 seconds when I was averaging around 35 seconds.
 
+### Last Layer
+
 Seeing my reliance on LL skips, I decided to run a set of solves where I tracked how many algorithms I required to solve the last layer. Below is a heatmap depicting 250 solves sorted into bins by number of last layer algorithms and solve time. The red lines denote the average solve time for each of the 4 Y axis bins. The green line denotes the average time of the 250 solves.
 
 ![ll_hist](https://user-images.githubusercontent.com/65193347/108001576-cc78c880-6fba-11eb-9904-44512bf7a431.png)
 
 Any last layer can be finished in at most 2 algorithms. Currently, the 18 OLL algorithms and 11 PLL algorithms I have memorized only allow me to solve around 10% of last layers with 2 algorithms. The more I memorize the more I will cut down the gap of 2.8 seconds between my current average and my 2 look LL average.
+
+### Cross
 
 Lastly, I wanted to check the other step I am most uncomfortable with, the cross. Solving the cross is dissimilar to other steps in that it requires more intuition and less memorization. There are two goals I aim for when solving the cross. Firstly, no cross should take more than 8 moves to solve. Secondly, to aim for a sub 20 average, you should be able to solve the cross in 4 seconds. To examine these, I ran two different test sets. 
 
@@ -93,6 +97,8 @@ Next, I ran a set of 75 timed cross solves which yeilded an average time of 3.84
 ![cross solves](https://user-images.githubusercontent.com/65193347/107986513-38970480-6f9a-11eb-8d12-850bd354d8d2.png)
 
 While there is a pretty alarming range in these solves, I don't think I will spend much time improving on my crosses. Currently my average is better than my 4 second goal, but I am imperfect 1/5th of the time I solve the cross. I am confident I will continue to be more comfortable solving crosses with time. 
+
+### Overview
 
 Overall, I think the most important way to improve is to simply continue learning last layer algorithms. Below is plot of my last 600 timed solves. 
 
