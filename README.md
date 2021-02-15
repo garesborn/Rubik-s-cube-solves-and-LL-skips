@@ -74,7 +74,7 @@ Below is a histogram of my last 600 timed solves.
 
 Looking further into the data, I noticed many of my fastest solves have either OLL or PLL skips, including 2 of my 3 fastest solves and 4 of my top 10. 
 
-Aside: The odds of a full last layer skip is about 1/15,000. I have had 2 in my more than 10 years of cubing. One was untimed. The other was a long standing personal best of just under 23 seconds when I was averaging around 35 seconds.
+Fun Fact: The odds of a full last layer skip is about 1/15,000. I have had 2 in my more than 10 years of cubing. One was untimed. The other was a long standing personal best of just under 23 seconds when I was averaging around 35 seconds.
 
 Seeing my reliance on LL skips, I decided to run a set of solves where I tracked how many algorithms I required to solve the last layer. Below is a heatmap depicting 250 solves sorted into bins by number of last layer algorithms and solve time. The red lines denote the average solve time for each of the 4 Y axis bins. The green line denotes the average time of the 250 solves.
 
