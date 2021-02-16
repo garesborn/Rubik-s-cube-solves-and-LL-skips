@@ -72,7 +72,7 @@ The full CFOP method has an algorithm for over 120 individual cases that can ari
 
 Below is a histogram of my last 600 timed solves.
 
-![Solve_hist](https://user-images.githubusercontent.com/65193347/107996864-66d30f00-6faf-11eb-98b2-c44093cd5d11.png)
+![solve_hist](https://user-images.githubusercontent.com/65193347/108031333-ad9c2580-6ffe-11eb-9829-b79ab81a1a79.gif)
 
 Looking further into the data, I noticed many of my fastest solves have either OLL or PLL skips, including 2 of my 3 fastest solves and 4 of my top 10. 
 
