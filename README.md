@@ -6,7 +6,7 @@ This project explores my personal Rubik's cube solve times and how much I can im
 
 To understand what this project will explore, first you need a basic understanding of the rules a rubik's cube.
 
-A rubik's cube is made of 26 cubies (smaller cubes, sub cubes, etc.). Of these 26 cubies, there are 8 corners (each with 3 faces), 12 edges (each with 2 faces), and most importantly, 6 single-faced centers, just as with any cube. These centers form axes for which all of the corners and edges can rotate around as seen below. 
+A rubik's cube is made of 26 cubies (smaller cubes, sub cubes, etc.). Of these 26 cubies, there are 8 corners (each with 3 faces), 12 edges (each with 2 faces), and most importantly, 6 single-faced centers. These centers form axes for which all of the corners and edges can rotate around as seen below. 
 
 This brings us to Rule #1: The centers will always be in the exact same orientation (no matter how you rotate the sides) and therefore denote the face for that color. 
 
